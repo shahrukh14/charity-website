@@ -7,7 +7,7 @@ The platform allows users to explore charity causes, donate securely using **Raz
 
 ## 🧩 Tech Stack
 
-**Backend:** Laravel 12 (PHP 8+)  
+**Backend:** Laravel 12 (PHP 8.3+)  
 **Frontend:** React Js & Bootstrap
 **Database:** MySQL  
 **Payment Gateway:** Razorpay 
