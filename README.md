@@ -39,4 +39,4 @@ php artisan db:seed
 
 🧠💻 Developer
 Developed by Mohammed Shahrukh
-Laravel & AI Enthusiast 💻 | Building Intelligent Web Applications 🚀
+Laravel & AI Enthusiast | Building Intelligent Web Applications 🚀
